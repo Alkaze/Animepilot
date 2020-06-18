@@ -8,6 +8,7 @@ public class AnimePilotApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AnimePilotApplication.class, args);
+		// é assim que o git funciona!
 	}
 
 }
